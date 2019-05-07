@@ -1,0 +1,9 @@
+
+Running matmul_scal 1024	...
+For n=1024: total computation time (with gettimeofday()) : 3.63552 s
+For n=1024: performance = 0.590695 Gflop/s 
++7.609177e+01  +7.609177e+01  
++6.610155e+01  +6.610155e+01  
+
++7.938805e+00  +7.938805e+00  
++7.933917e+00  +7.933917e+00  

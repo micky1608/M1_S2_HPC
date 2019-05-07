@@ -1,0 +1,8 @@
+
+Running fibo_seq ...
+ fib(50)=-298632863
+For n=50: total computation time (with gettimeofday()) : 48.6331 s
+
+Running fibo_omp ...
+ fib(50)=-298632863
+For n=50: total computation time (with gettimeofday()) : 38.8353 s

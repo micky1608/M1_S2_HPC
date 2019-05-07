@@ -1,0 +1,6 @@
+
+Running ProduitTermeATerme_scal ...
+vect size : 4
+pad : 0
+C[0]=1.000000 C[1]=1.000000 C[4]=1.000000 C[8]=1.000000 C[N-1]=0.000000 
+Temps total de calcul : 0 sec
